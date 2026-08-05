@@ -1,122 +1,59 @@
-## Olá mundo 👋
+<div align="center">
 
-Me chamo M.Quintanilha com formação em Analise e Desenvolvimento de Sistemas.
+# 👋 Olá, eu sou M. Quintanilha
 
-### 🤖 Linguagens e Tecnologias
+### 💻 Analista e Desenvolvedor de Sistemas
 
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Next.js" 
-    title="Next.js"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind" 
-    title="Tailwind"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="SASS" 
-    title="SASS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JQuery" 
-    title="JQuery"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>
+Desenvolvo aplicações web, sites institucionais e ferramentas de automação com foco em
+soluções práticas para o dia a dia: gestão financeira, contabilidade e presença digital.
 
-<br/>
-<br/>
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+</div>
+
+## 📖 Sobre mim
+
+- 🎓 Formação em **Análise e Desenvolvimento de Sistemas**
+- 🧾 Interesse especial em **finanças, contabilidade e gestão** aplicadas à tecnologia
+- 🌐 Criação de sites e cartões digitais profissionais (HTML, CSS, JavaScript, PHP)
+- 🤖 Automação de tarefas e ferramentas de análise de dados em Python
+
+## 🛠️ Tecnologias e Ferramentas
+
+| Categoria | Tecnologias |
+|-----------|-------------|
+| **Front-end** | HTML5, CSS3, JavaScript, TypeScript, React, Next.js, Bootstrap, Tailwind, SASS |
+| **Back-end** | PHP, Laravel, Node.js, MySQL |
+| **Automação** | Python, jQuery |
+| **Outras** | Git, GitHub, cPanel, Vite |
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---------|-----------|-------|
+| [**Cartão Digital**](https://github.com/mariniltonquintanilha-hash/cartao-digital) | Cartão de visita digital futurista com painel admin, hospedável em cPanel | PHP · MySQL |
+| [**LivroCaixa**](https://github.com/mariniltonquintanilha-hash/LivroCaixa) | Sistema contábil para MEI com livro diário, razão, balancete e dashboard | Python · Tkinter |
+| [**Concilia**](https://github.com/mariniltonquintanilha-hash/Concilia) | Conciliação bancária profissional com API e frontend moderno | NestJS · React |
+| [**Gastos-Pessoais**](https://github.com/mariniltonquintanilha-hash/Gastos-Pessoais) | Gestão financeira pessoal com insights gerados por IA | React · TypeScript · Gemini |
+| [**ConsultaXLM**](https://github.com/mariniltonquintanilha-hash/ConsultaXLM) | Visualizador de documentos fiscais (NF-e, NFC-e, NFSe) | Python · PyQt5 |
+| [**Agenda**](https://github.com/mariniltonquintanilha-hash/Agenda) | Agenda institucional com calendário interativo | HTML · CSS · JavaScript |
+
+> Veja todos os projetos em [github.com/mariniltonquintanilha-hash](https://github.com/mariniltonquintanilha-hash).
+
+## 📊 Estatísticas
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariniltonquintanilha-hash&show_icons=true&theme=dark&locale=pt-br)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariniltonquintanilha-hash&layout=compact&theme=dark&locale=pt-br)
+
+</div>
+
+---
+<div align="center"><sub>Feito com 💙 por M. Quintanilha</sub></div>
