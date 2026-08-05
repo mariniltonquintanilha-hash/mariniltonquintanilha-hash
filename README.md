@@ -49,11 +49,19 @@ soluções práticas para o dia a dia: gestão financeira, contabilidade e prese
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mariniltonquintanilha-hash&show_icons=true&theme=dark&locale=pt-br)
+![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mariniltonquintanilha-hash&cc=0d1117&tc=ffffff&ic=58a6ff&bc=30363d)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mariniltonquintanilha-hash&layout=compact&theme=dark&locale=pt-br)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mariniltonquintanilha-hash&theme=dark)
 
 </div>
+
+### 💻 Repositórios por linguagem
+
+![HTML5](https://img.shields.io/badge/HTML5-15%20repos-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-3%20repos-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3%20repos-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3%20repos-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-1%20repo-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
 <div align="center"><sub>Feito com 💙 por M. Quintanilha</sub></div>
