@@ -51,8 +51,6 @@ soluções práticas para o dia a dia: gestão financeira, contabilidade e prese
 
 ![GitHub Stats](https://github-stats-alpha.vercel.app/api?username=mariniltonquintanilha-hash&cc=0d1117&tc=ffffff&ic=58a6ff&bc=30363d)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=mariniltonquintanilha-hash&theme=dark)
-
 </div>
 
 ### 💻 Repositórios por linguagem
